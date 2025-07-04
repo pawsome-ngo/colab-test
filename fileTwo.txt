@@ -1,1 +1,4 @@
 This is line one in file two
+Here I am adding the second line updated
+This is the third line updated.
+This is the fourth line
